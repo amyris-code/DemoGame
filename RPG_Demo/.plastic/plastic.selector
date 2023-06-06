@@ -1,0 +1,4 @@
+repository "RPG_Demo@emryslife@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
