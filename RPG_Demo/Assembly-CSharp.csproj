@@ -99,6 +99,7 @@
     <Compile Include="Assets\Environment\PostProcessing\Runtime\Models\GrainModel.cs" />
     <Compile Include="Assets\Scripts\Inventory\InventoryUI.cs" />
     <Compile Include="Assets\Environment\PostProcessing\Runtime\PostProcessingModel.cs" />
+    <Compile Include="Assets\Scripts\PlayerAnimator.cs" />
     <Compile Include="Assets\Scripts\Stats\CharacterStats.cs" />
     <Compile Include="Assets\Environment\PostProcessing\Runtime\Components\GrainComponent.cs" />
     <Compile Include="Assets\Scripts\CharacterAnimator.cs" />
@@ -122,6 +123,8 @@
     <Compile Include="Assets\Environment\PostProcessing\Runtime\Models\AntialiasingModel.cs" />
     <Compile Include="Assets\Scripts\Helper\ConvertToRegularMesh.cs" />
     <Compile Include="Assets\Environment\PostProcessing\Runtime\Models\DitheringModel.cs" />
+    <Compile Include="Assets\Scripts\HealthUI.cs" />
+    <Compile Include="Assets\Scripts\CharacterAnimationEventReceiver.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Environment\PostProcessing\Resources\Shaders\ScreenSpaceReflection.shader" />
